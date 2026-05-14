@@ -1,6 +1,6 @@
 from groq import Groq
 
-client = Groq(api_key="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")
+client = Groq(api_key="Your_Api_Key")
 
 print("🤖 Groq AI Bot Started")
 
